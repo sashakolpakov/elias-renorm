@@ -1,1 +1,1 @@
-# elias-renorm
+# Elias' Encoding from Lagrangians and Renormalization
